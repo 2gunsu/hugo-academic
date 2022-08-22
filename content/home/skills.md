@@ -22,9 +22,12 @@ feature:
   - icon: "pytorch"
     icon_pack: "custom"
     name: Pytorch
-  - icon: "detectron"
+  - icon: "matlab"
     icon_pack: "custom"
-    name: Detectron2
+    name: Matlab
+#   - icon: "detectron"
+#     icon_pack: "custom"
+#     name: Detectron2
 #   - description: 10%
 #     icon: camera-retro
 #     icon_pack: fas
