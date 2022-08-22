@@ -22,7 +22,7 @@ feature:
   - icon: "pytorch"
     icon_pack: "custom"
     name: Pytorch
-  - icon: "detectron2"
+  - icon: "detectron"
     icon_pack: "custom"
     name: Detectron2
 #   - description: 10%
