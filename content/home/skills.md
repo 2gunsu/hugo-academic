@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - icon: python
-    icon_pack: fas
+    icon_pack: far
     name: Python
 #   - description: 10%
 #     icon: camera-retro
