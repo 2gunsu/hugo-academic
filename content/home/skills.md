@@ -19,6 +19,12 @@ feature:
   - icon: "python"
     icon_pack: "custom"
     name: Python
+  - icon: "pytorch"
+    icon_pack: "custom"
+    name: Pytorch
+  - icon: "detectron"
+    icon_pack: "custom"
+    name: Detectron2
 #   - description: 10%
 #     icon: camera-retro
 #     icon_pack: fas
