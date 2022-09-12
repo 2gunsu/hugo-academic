@@ -35,7 +35,8 @@ abstract: Recent CNN-based approaches have shown impressive improvements in obje
 # Summary. An optional shortened abstract.
 summary: We have proposed a feature enhancement Network(FEN) to increase the performance of small object detection, especially in noisy images. Unlike existing small object detection, we investigate the effect of image noise on the performance degradation of small object detection. Our FEN is trained by self-supervised learning and consistently increases performance in vehicle detection in aerial images.
 
-tags: [Object Detection, Hyperspectral Imaging(HSI), Image Coding]
+tags: [Object Detection, Feature Enhancement, Self-Supervised Learning(SSL)]
+
 
 # Display this page in the Featured widget?
 featured: true

@@ -35,9 +35,9 @@ publication_short: IEEE Geoscience and Remote Sensing Letters(GRSS)
 abstract: Since hyperspectral images (HSIs) contain visual information of multiple wavelengths, invisible signals to human eyes can also be detected. Therefore, it can be widely used for target object detection in bad weather and disaster environments. However, the channel dimension of the HSI is very large, and thus it is very inefficient to apply the existing object detector naively. In this letter, we present a lightweight convolutional neural network (CNN)-based channel sampler to estimate the importance score of each channel in the HSI. Based on the importance score of each channel, we can generate single-channel images that achieve the best object detection performance, as well as analyze the impact of the wavelength in the HSI on object detection performance. The proposed sampler is trained by a self-supervised adversarial learning method that recovers the original input HSI from the generated single-channel image. Therefore, our channel sampler can be seamlessly combined with any existing detectors. For experiments, we build a hyperspectral dataset for vehicle detection and then show the effectiveness of our method through various ablation studies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We have proposed a channel sampler that can assign importance scores of each band in the hypercube. Our channel sampler is trained by the GAN-based self-supervised learning without the need for any manual band prioritization. The complicated 3-D hypercube can be compressed into a 2-D single-channel image by utilizing our channel sampler, thereby enabling efficient training and inference of the object detection system. 
 
-tags: [Object Detection, Feature Enhancement, Self-Supervised Learning(SSL)]
+tags: [Object Detection, Hyperspectral Imaging(HSI), Image Coding]
 
 # Display this page in the Featured widget?
 featured: true
