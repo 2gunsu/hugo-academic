@@ -12,9 +12,9 @@ authors:
   - Donghyeon Cho
 
 # Author notes (optional)
-# author_notes:
-#   - 'Equal Contribution'
-#   - 'Equal Contribution'
+author_notes:
+  - ''
+  - '2nd Author'
 
 date: '2022-07-04'
 doi: ''

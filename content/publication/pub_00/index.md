@@ -11,8 +11,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal Contribution'
-  - 'Equal Contribution'
+  - 'Equal Contribution / 1st Author'
+  - 'Equal Contribution / 1st Author'
 
 date: '2021-05-17'
 doi: '10.1109/LSP.2021.3081041'
