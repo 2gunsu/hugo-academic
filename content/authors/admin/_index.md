@@ -19,7 +19,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Computer Vision
-  - Object Detection
+  - 3D Object Detection
+  - Depth Estimation
   - Sensor Fusion
 
 # Education to show in About widget
