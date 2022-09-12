@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\publication\pub_01\GRSS2021.pdf'
+url_pdf: 'GRSS2021.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
