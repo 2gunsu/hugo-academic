@@ -31,13 +31,6 @@ feature:
   - icon: "matlab"
     icon_pack: "custom"
     name: Matlab
-  - icon: "detectron"
-    icon_pack: "custom"
-    name: Detectron2
-#   - description: 10%
-#     icon: camera-retro
-#     icon_pack: fas
-#     name: Photography
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
