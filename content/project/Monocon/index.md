@@ -1,6 +1,6 @@
 ---
 title: Reimplementation for MonoCon
-summary: This project contains reimplemented "Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection" published in AAAI 22'. The purpose of the reimplementation is to remove the large dependency on other libraries that the original code had, and to enhance the reproduction performance by adding 3D augmentation method in "Exploring Geometric Consistency for Monocular 3D Object Detection" (CVPR 22').
+summary: This project contains reimplemented "Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection" published in AAAI 22'. The purpose of the reimplementation is to remove the large dependency on other libraries that the original code had, and to enhance the reproduction performance by adding 3D augmentation method.
 
 # tags:
 #   - Deep Learning
