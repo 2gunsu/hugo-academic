@@ -22,9 +22,9 @@ feature:
   - icon: "C"
     icon_pack: "custom"
     name: C
-  - icon: "C++"
+  - icon: "Cpp"
     icon_pack: "custom"
-    name: Cpp
+    name: C++
   - icon: "pytorch"
     icon_pack: "custom"
     name: Pytorch
