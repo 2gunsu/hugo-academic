@@ -1,6 +1,5 @@
 ---
-title: 
-Self-supervised Feature Enhancement Networks for Small Object Detection in Noisy Images
+title: Self-supervised Feature Enhancement Networks for Small Object Detection in Noisy Images
 summary: This project is official pytorch implementation for our paper, "Self-supervised Feature Enhancement Networks for Small Object Detection in Noisy Images" (IEEE Signal Processing Letters 21')
 # tags:
 #   - Deep Learning
