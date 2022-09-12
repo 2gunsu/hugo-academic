@@ -1,41 +1,56 @@
 ---
-title: 'Self-supervised Feature Enhancement Networks for Small Object Detection in Noisy Images'
+title: 'Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Dae-Young Song
   - Geonsoo Lee
-  - Sungeun Hong
+  - HeeKyung Lee
+  - Gi-Mun Um
   - Donghyeon Cho
 
 # Author notes (optional)
-author_notes:
-  - 'Equal Contribution'
-  - 'Equal Contribution'
+# author_notes:
+#   - 'Equal Contribution'
+#   - 'Equal Contribution'
 
-date: '2021-05-17'
-doi: '10.1109/LSP.2021.3081041'
+date: '2022-10'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-05-17'
+publishDate: '2022-10'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Signal Processing Letters
-publication_short: IEEE Signal Processing Letters(SPL)
+publication: European Conference on Computer Vision
+publication_short: European Conference on Computer Vision(ECCV)
 
-abstract: Recent CNN-based approaches have shown impressive improvements in object detection, but detecting small objects in images is still a challenging task. Small object detection becomes more difficult if the image contains a lot of noise, which is frequent in real environments. The main reason is that the ratio of visual signal to noise on small objects is very low, making it difficult to extract rich features for detection. To address this issue, we propose a feature enhancement network (FEN) that is trained in a self-supervised manner. Specifically, FEN takes features from input images whose values randomly were erased, then predicts the erased values by aggregating neighboring values. This scheme enables FEN to improve features using surrounding values, which have great effects on enriching features from small-object regions during the test phase. To verify the robustness of our method against small object detection from noisy images, we adopt vehicle detection in aerial images as the main target task. The proposed method consistently outperformed the baseline methods in our experiments. We further present a variety of empirical studies, quantitatively and qualitatively, for in-depth analysis.
+abstract: Recently, there has been growing attention on an end-toend deep learning-based stitching model. However, the most challenging
+point in deep learning-based stitching is to obtain pairs of input images
+with a narrow field of view and ground truth images with a wide field
+of view captured from real-world scenes. To overcome this difficulty, we
+develop a weakly-supervised learning mechanism to train the stitching
+model without requiring genuine ground truth images. In addition, we
+propose a stitching model that takes multiple real-world fisheye images as
+inputs and creates a 360◦
+output image in an equirectangular projection
+format. In particular, our model consists of color consistency corrections,
+warping, and blending, and is trained by perceptual and SSIM losses.
+The effectiveness of the proposed algorithm is verified on two real-world
+stitching datasets.
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Object Detection, Hyperspectral Imaging(HSI), Image Coding]
+tags: [Image Stitching, 360-Degree Panoramic Image]
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,11 +60,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9432743'
-url_code: 'https://github.com/2gunsu/SPL2021-FEN'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://github.com/2gunsu/SPL2021-FEN'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
