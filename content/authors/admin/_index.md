@@ -29,10 +29,10 @@ education:
   courses:
     - course: B.S. in Electronics Engineering
       institution: Chungnam National University
-      year: 2021
+      year: 2021-2023
     - course: B.S. in Electronics Engineering
       institution: Chungnam National University
-      year: 2015
+      year: 2015-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
