@@ -64,5 +64,6 @@ email: '201501760@o.cnu.ac.kr'
 highlight_name: true
 ---
 
-I am a master's student at Chungnam National University, South Korea.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a master's student at Chungnam National University, South Korea.  
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
