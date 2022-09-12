@@ -1,8 +1,8 @@
 ---
-title: Noise-Robust Traffic Density Estimator
+title: Noise-Robust Traffic Density Estimation
 summary: This is a capstone project that extracts a vehicle's mask from satellite imagery and predicts traffic density based on the extracted mask. The reliability and performance of the network can be improved by using the denoising algorithm together.
-# tags:
-#   - Deep Learning
+tags:
+  - Deep Learning
 date: '2020-12-25'
 
 # Optional external URL for project (replaces project detail page).
