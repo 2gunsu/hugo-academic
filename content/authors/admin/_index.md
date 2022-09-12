@@ -29,10 +29,10 @@ education:
   courses:
     - course: B.S. in Electronics Engineering
       institution: Chungnam National University
-      year: 2021-2023
+      year: 2021
     - course: B.S. in Electronics Engineering
       institution: Chungnam National University
-      year: 2015-2021
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,6 +66,7 @@ email: '201501760@o.cnu.ac.kr'
 highlight_name: true
 ---
 
-I am a master's student at Chungnam National University, South Korea.  
+I am a master's student doing research at CVIP Lab at Chungnam National University, South Korea.  
+I am interested in 3D object detection in an autonomous driving environment, and I am currently researching monocular 3D object detection through weak supervision using 2D labels.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
