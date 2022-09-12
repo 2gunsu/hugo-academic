@@ -19,6 +19,12 @@ feature:
   - icon: "python"
     icon_pack: "custom"
     name: Python
+  - icon: "C"
+    icon_pack: "custom"
+    name: C
+  - icon: "C++"
+    icon_pack: "custom"
+    name: Cpp
   - icon: "pytorch"
     icon_pack: "custom"
     name: Pytorch
