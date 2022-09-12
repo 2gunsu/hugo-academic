@@ -27,10 +27,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Electronics Engineering
+    - course: M.S. in Electronic Engineering
       institution: Chungnam National University
       year: 2021
-    - course: B.S. in Electronics Engineering
+    - course: B.S. in Electronic Engineering
       institution: Chungnam National University
       year: 2015
 
