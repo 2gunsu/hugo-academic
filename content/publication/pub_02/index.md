@@ -32,11 +32,11 @@ publication_types: ['1']
 publication: European Conference on Computer Vision
 publication_short: European Conference on Computer Vision(ECCV)
 
-abstract: Recently, there has been growing attention on an end-to-end deep learning-based stitching model. However, the most challenging point in deep learning-based stitching is to obtain pairs of input images with a narrow field of view and ground truth images with a wide field of view captured from real-world scenes. To overcome this difficulty, we develop a weakly-supervised learning mechanism to train the stitching model without requiring genuine ground truth images. In addition, we propose a stitching model that takes multiple real-world fisheye images as inputs and creates a 360◦ output image in an equirectangular projection format. In particular, our model consists of color consistency corrections, warping, and blending, and is trained by perceptual and SSIM losses. The effectiveness of the proposed algorithm is verified on two real-world stitching datasets.Walls
+abstract: Recently, there has been growing attention on an end-to-end deep learning-based stitching model. However, the most challenging point in deep learning-based stitching is to obtain pairs of input images with a narrow field of view and ground truth images with a wide field of view captured from real-world scenes. To overcome this difficulty, we develop a weakly-supervised learning mechanism to train the stitching model without requiring genuine ground truth images. In addition, we propose a stitching model that takes multiple real-world fisheye images as inputs and creates a 360-degree output image in an equirectangular projection format. In particular, our model consists of color consistency corrections, warping, and blending, and is trained by perceptual and SSIM losses. The effectiveness of the proposed algorithm is verified on two real-world stitching datasets.
 
 
 # Summary. An optional shortened abstract.
-summary: we present a weakly supervised method for training the real-world stitching model. Our model takes multiple fisheye images as inputs and generates a 360◦ panorama image. For training, we generate images of weak supervisions and utilize them for perceptual and SSIM losses. We verify the proposed method on our stitching dataset as well as the CROSS dataset. 
+summary: We present a weakly supervised method for training the real-world stitching model. Our model takes multiple fisheye images as inputs and generates a 360-degree panorama image. For training, we generate images of weak supervisions and utilize them for perceptual and SSIM losses. We verify the proposed method on our stitching dataset as well as the CROSS dataset. 
 
 tags: [Image Stitching, 360-Degree Panoramic Image]
 
