@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9432743'
+url_pdf: 'content\publication\pub_00\SPL2021.pdf'
 url_code: 'https://github.com/2gunsu/SPL2021-FEN'
 url_dataset: ''
 url_poster: ''
