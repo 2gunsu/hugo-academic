@@ -16,11 +16,11 @@ authors:
 #   - 'Equal Contribution'
 #   - 'Equal Contribution'
 
-date: '2022-10'
+date: '2022-10-25'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-10'
+publishDate: '2022-10-25'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
