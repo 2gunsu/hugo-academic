@@ -66,7 +66,7 @@ email: '201501760@o.cnu.ac.kr'
 highlight_name: true
 ---
 
-I am a master's student doing research at CVIP Lab at Chungnam National University, South Korea.  
+I am a master's student doing research in [CVIP Lab](https://sites.google.com/view/cnu-cvip) under the supervision of [Prof. Donghyeon Cho](https://scholar.google.com/citations?user=zj-NER4AAAAJ&hl=en) of the Department of Electronic Engineering, Chungnam National University, South Korea.
 I am interested in 3D object detection in an autonomous driving environment, and I am currently researching monocular 3D object detection through weak supervision using 2D labels.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
