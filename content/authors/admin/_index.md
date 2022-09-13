@@ -70,4 +70,4 @@ I am a master's student doing research in [CVIP Laboratory](https://sites.google
 
 My research area is 3D perception in an autonomous driving environment, and I am currently developing monocular 3D object detection network using weak supervision from 2D labels.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
