@@ -31,6 +31,9 @@ feature:
   - icon: "matlab"
     icon_pack: "custom"
     name: Matlab
+  - icon: "html"
+    icon_pack: "custom"
+    name: HTML
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
