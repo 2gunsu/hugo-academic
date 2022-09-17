@@ -68,6 +68,6 @@ highlight_name: true
 
 I am a Master's Student doing research in [CVIP Laboratory](https://sites.google.com/view/cnu-cvip) under the supervision of [Prof. Donghyeon Cho](https://scholar.google.com/citations?user=zj-NER4AAAAJ&hl=en) of the Department of Electronic Engineering, Chungnam National University since April 2020.
 
-My research area is 3D perception in an autonomous driving environment, and I am currently developing monocular 3D object detection network using weak supervision from 2D labels.
+My research area is 3D perception in an autonomous driving environment, and I am currently developing monocular 3D object detection system using weak supervision from 2D labels.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
