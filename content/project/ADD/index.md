@@ -1,6 +1,6 @@
 ---
 title: Big Data Analysis for Hyper Spectral Images
-summary: It is a project focused on finding the optimal wavelength band that can improve the performance of vehicle detection from hyperspectral images and converting it into a more efficient form of data. As a result of this project, "Channel Sampler in Hyperspectral Images for Vehicle Detection" (GRSS, 2021) has been published.  
+summary: This project focused on finding the optimal wavelength band that can improve the performance of vehicle detection from hyperspectral images and converting it into a more efficient form of data. As a result of this project, "Channel Sampler in Hyperspectral Images for Vehicle Detection" (GRSS, 2021) has been published.  
 
 tags:
   - Deep Learning
